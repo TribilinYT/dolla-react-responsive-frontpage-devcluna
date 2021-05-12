@@ -32,23 +32,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna">
+    <img src="/src/images/icon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">dolla Single-Page</h3>
 
   <p align="center">
-    project_description
+    Responsive single page for a Banking business.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Request Feature</a>
   </p>
 </p>
 
