@@ -46,7 +46,10 @@
     <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Report Bug</a>
     ·
     <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Request Feature</a>
+    .
+    <a href="https://github.com/briancodex">Credits Owner</a>
   </p>
+   
 </p>
 
 
