@@ -44,7 +44,7 @@
     <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://609b9c14bd8a74d82f80211c--competent-franklin-7f8158.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/TribilinYT/dolla-react-responsive-frontpage-devcluna/issues">Report Bug</a>
     ·
@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![dolla Home-Page][product-screenshot]](https://example.com)
+[![dolla Home-Page][product-screenshot]](https://609b9c14bd8a74d82f80211c--competent-franklin-7f8158.netlify.app/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
